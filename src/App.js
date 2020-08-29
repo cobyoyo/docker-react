@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Test 45sdfsdf
+          Test
         </a>
       </header>
       <p className="App-intro">Hi there@</p>
